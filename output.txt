@@ -1,0 +1,57 @@
+Request TPVSHVU1Y166CZ:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS71LWE84EFJ:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSNTH81P6IKX:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSBGHXLMO8ZD:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS4RNCBPFXI3:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS2A59MV6SBN:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS09HBXUI14O:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSFJ8QNO0TX4:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSTCLRGI3JR8:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSEQY831EC4Z:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS13BCKZB7O9:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSDZ1BXV6447:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSU4IYDTA36C:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVS6PR8LLLLGO:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSIZ6JOJ3SKR:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSBX1JIG4LQ7:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSDXYLZWK18L:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSAUNPKQDYJH:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
+Request TPVSFXVA7LT2B4:
+{"systemErrorCode":"TP400","errorMessage":"Bad Request","userMessage":"orderReviewPreOrderDetailRequest: Invalid Platform : pid"}
+
